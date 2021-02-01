@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add new text
+=======
+some text
+>>>>>>> parent of 7329ffb (Revert "add some text")
